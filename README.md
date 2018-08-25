@@ -2,7 +2,9 @@
 Say Hello to GitHub
 
 # Test for Markdown Syntax
-- [x] This is a snapshot of code
+- [x]   This is a snapshot of code
+        Line 2
+Line 3
 
         #include <stdio.h>
 
@@ -13,4 +15,14 @@ Say Hello to GitHub
             {
                 printf ("foo\n");
             }
+        }
+- This is Preface
+    > Preface
+    >> Preface of Preface
+
+        #include <stdio.h>
+
+        int main (void)
+        {
+            printf ("Hi, Code in Preface\n");
         }
