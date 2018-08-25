@@ -2,15 +2,15 @@
 Say Hello to GitHub
 
 # Test for Markdown Syntax
--  This is a snapshot of code
+- [x] This is a snapshot of code
 
-    #include <stdio.h>
+        #include <stdio.h>
 
-    int main (void)
-    {
-        printf ("Hello Markdown\n");
-        while (1)
+        int main (void)
         {
-            printf ("foo\n");
+            printf ("Hello Markdown\n");
+            while (1)
+            {
+                printf ("foo\n");
+            }
         }
-    }
