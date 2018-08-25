@@ -4,7 +4,7 @@ Say Hello to GitHub
 # Test for Markdown Syntax
 - [x]   This is a snapshot of code
         Line 2
-Line 3
+        Line 3
 
         #include <stdio.h>
 
@@ -20,9 +20,9 @@ Line 3
     > Preface
     >> Preface of Preface
 
-        #include <stdio.h>
+            #include <stdio.h>
 
-        int main (void)
-        {
-            printf ("Hi, Code in Preface\n");
-        }
+            int main (void)
+            {
+                printf ("Hi, Code in Preface\n");
+            }
