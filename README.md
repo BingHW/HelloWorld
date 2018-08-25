@@ -3,7 +3,8 @@ Say Hello to GitHub
 
 # Test for Markdown Syntax
 This is a snapshot of code
-    &#include <stdio.h>
+    
+    #include <stdio.h>
 
     int main (void)
     {
